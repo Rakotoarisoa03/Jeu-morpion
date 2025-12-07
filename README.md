@@ -3,7 +3,7 @@ Le morpion (ou tic-tac-toe) est un jeu de société simple qui se joue général
 L'objectif est d'aligner trois de vos symboles horizontalement, verticalement ou en diagonale.
 
 ## ▶️ Accéder au jeu
-<a href="https://rakotoarisoa03.github.io/jeu-morpion/" target="_blank"> Cliquez ici pour jouer le jeu !</a>
+<a href="https://rakotoarisoa03.github.io/Jeu-morpion/" target="blank"> Cliquez ici pour jouer le jeu !</a>
 
 ## Aperçu
 ![le jeu](morpion.png)
