@@ -6,7 +6,7 @@ L'objectif est d'aligner trois de vos symboles horizontalement, verticalement ou
 [Cliquez ici pour jouer le jeu](https://rakotoarisoa03.github.io/Jeu-morpion/)
 
 ## Aperçu
-(morpion.png)
+![le jeu](morpion.png)
 
 ## 🛠️ Technologies utilisées
 - HTML5 • CSS3 • JavaScript
